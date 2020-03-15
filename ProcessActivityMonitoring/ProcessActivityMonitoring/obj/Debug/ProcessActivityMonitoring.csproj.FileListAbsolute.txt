@@ -1,0 +1,17 @@
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\bin\Debug\ProcessActivityMonitoring.exe.config
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\bin\Debug\ProcessActivityMonitoring.exe
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\bin\Debug\ProcessActivityMonitoring.pdb
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\MainWindow.g.cs
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\App.g.cs
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring_MarkupCompile.cache
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring_MarkupCompile.lref
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\MainWindow.baml
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring.g.resources
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring.Properties.Resources.resources
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring.exe
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring.pdb
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\View\ProcessActivityMonitoringView.g.cs
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\1\documents\visual studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\View\ProcessActivityMonitoringView.baml
+C:\Users\1\Documents\Visual Studio 2015\Projects\ProcessActivityMonitoring\ProcessActivityMonitoring\obj\Debug\ProcessActivityMonitoring.csprojResolveAssemblyReference.cache
