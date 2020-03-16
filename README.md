@@ -10,5 +10,5 @@ Other way is using the GetSystemTimes() function. This function returns paramete
 
 # User Interface
 WPF was chosen for adding simple user interface.
-WPF DataGrid control in XAML provides a flexible way to display a collection of data in rows and columns. This control has many convenient functions by default, but need to fix scroll issue, when virtualisation is enabled. In this case, it is better to choose Web app technology.
+WPF DataGrid control in XAML provides a flexible way to display a collection of data in rows and columns. This control has many convenient functions by default, but need to fix scroll issue when virtualisation is enabled. In this case, it is better to choose Web app technology.
 MVVM suspects present — Views,  ViewModel and ProcessManager. Also was added some helper classes.
